@@ -1267,7 +1267,8 @@ containing a value of this type.
         public static final int left_icon=0x7f080045;
         public static final int listMode=0x7f080004;
         public static final int list_item=0x7f08003b;
-        public static final int menu_settings=0x7f080056;
+        public static final int mapView=0x7f080056;
+        public static final int menu_settings=0x7f080057;
         public static final int middle=0x7f080020;
         public static final int never=0x7f080028;
         public static final int none=0x7f080021;

@@ -1,0 +1,8 @@
+/home/gela/AndroidStudioProjects/ActionBarCompat-Styled/Application/build/intermediates/classes/debug
+/home/gela/AndroidStudioProjects/ActionBarCompat-Styled/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-258e9d2304f8c23b507e6cb4bfad1886b52d2c07.jar
+/home/gela/AndroidStudioProjects/ActionBarCompat-Styled/Application/build/intermediates/pre-dexed/debug/classes-38e1f09b72718c37b41eac754b3268d9b608410f.jar
+/home/gela/AndroidStudioProjects/ActionBarCompat-Styled/Application/build/intermediates/pre-dexed/debug/classes-bd029eae8a6f0151ff64cdd7d2dd1c9a1efce3a4.jar
+/home/gela/AndroidStudioProjects/ActionBarCompat-Styled/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-f07b2115c666eef7f27b06834dba526ed748e377.jar
+/home/gela/AndroidStudioProjects/ActionBarCompat-Styled/Application/build/intermediates/pre-dexed/debug/classes-9e0c86c55fc2178b1752a0fda35099e6063e4b36.jar
+/home/gela/AndroidStudioProjects/ActionBarCompat-Styled/Application/build/intermediates/pre-dexed/debug/classes-da18cc059881a3ef5fcaf06d5008ce013bfab82c.jar
+/home/gela/AndroidStudioProjects/ActionBarCompat-Styled/Application/build/intermediates/pre-dexed/debug/classes-ce195f8258094641afa56a140d19ecd876ff50bd.jar
